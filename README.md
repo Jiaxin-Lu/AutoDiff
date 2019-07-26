@@ -1,2 +1,2 @@
 # AutoDiff
-A simple autodiff program.
+A simple automatic differentiation program for https://github.com/dlsys-course/assignment1.
